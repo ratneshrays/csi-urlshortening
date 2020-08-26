@@ -32,7 +32,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
 @RestController
-@RequestMapping(value = "/stark/")
+@RequestMapping(value = "/csi/")
 public class UrlController {
     
     @Autowired
